@@ -1,6 +1,6 @@
 <?php
 
-namespace Vigneshc91\LaravelSwagger\Parameters;
+namespace yoganandgopala\LaravelSwagger\Parameters;
 
 interface ParameterGenerator
 {

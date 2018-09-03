@@ -1,10 +1,10 @@
 <?php
 
-namespace Vigneshc91\LaravelSwagger\Tests\Parameters;
+namespace yoganandgopala\LaravelSwagger\Tests\Parameters;
 
 use Illuminate\Validation\Rule;
-use Vigneshc91\LaravelSwagger\Tests\TestCase;
-use Vigneshc91\LaravelSwagger\Parameters\QueryParameterGenerator;
+use yoganandgopala\LaravelSwagger\Tests\TestCase;
+use yoganandgopala\LaravelSwagger\Parameters\QueryParameterGenerator;
 
 class QueryParameterGeneratorTest extends TestCase
 {

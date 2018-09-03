@@ -1,6 +1,6 @@
 <?php
 
-namespace Vigneshc91\LaravelSwagger\Parameters;
+namespace yoganandgopala\LaravelSwagger\Parameters;
 
 class QueryParameterGenerator implements ParameterGenerator
 {

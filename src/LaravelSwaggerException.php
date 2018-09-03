@@ -1,6 +1,6 @@
 <?php
 
-namespace Vigneshc91\LaravelSwagger;
+namespace yoganandgopala\LaravelSwagger;
 
 class LaravelSwaggerException extends \Exception
 {
