@@ -1,11 +1,11 @@
 {
-    "name": "yoganandgopala/laravel-swagger",
+    "name": "yoganandgopalan/laravel-swagger",
     "description": "Auto generates the swagger documentation for a laravel project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vignesh C",
-            "email": "vignesh.jag@gmail.com"
+            "name": "Yoganand G",
+            "email": "yoganand_19_19@yahoo.com"
         }
     ],
     "require-dev": {
@@ -17,12 +17,12 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "yoganandgopala\\LaravelSwagger\\": "src/"
+            "yoganandgopalan\\LaravelSwagger\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "yoganandgopala\\LaravelSwagger\\Tests\\": "tests/"
+            "yoganandgopalan\\LaravelSwagger\\Tests\\": "tests/"
         }
     },
     "suggest": {
@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "yoganandgopala\\LaravelSwagger\\SwaggerServiceProvider"
+                "yoganandgopalan\\LaravelSwagger\\SwaggerServiceProvider"
             ]
         }
     }
