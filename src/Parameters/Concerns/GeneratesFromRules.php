@@ -1,6 +1,6 @@
 <?php
 
-namespace yoganandgopala\LaravelSwagger\Parameters\Concerns;
+namespace yoganandgopalan\LaravelSwagger\Parameters\Concerns;
 
 trait GeneratesFromRules
 {

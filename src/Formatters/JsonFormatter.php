@@ -1,8 +1,8 @@
 <?php
 
-namespace yoganandgopala\LaravelSwagger\Formatters;
+namespace yoganandgopalan\LaravelSwagger\Formatters;
 
-use yoganandgopala\LaravelSwagger\LaravelSwaggerException;
+use yoganandgopalan\LaravelSwagger\LaravelSwaggerException;
 
 class JsonFormatter extends Formatter
 {

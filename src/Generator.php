@@ -1,6 +1,6 @@
 <?php
 
-namespace yoganandgopala\LaravelSwagger;
+namespace yoganandgopalan\LaravelSwagger;
 
 use ReflectionMethod;
 use Illuminate\Support\Str;
